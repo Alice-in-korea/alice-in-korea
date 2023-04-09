@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alice Kim!</h1>
-<h3 align="center">A passionate Flutter developer from Korea🇰🇷</h3>
+<h1 align="center">Hi, I'm Alice Kim ✨</h1>
+<h3 align="center">A passionate Flutter developer from Korea 🇰🇷</h3>
 <h2>📚 My tech stack </h2>
 <p>
 <img src="https://img.shields.io/badge/flutter-02569b?style=flat-square&logo=flutter&logocolor=white">
@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black">
 <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white">
 </p>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alice-kim-aa6439260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alice-kim-aa6439260" height="20" width="30" /></a>
 </p>
